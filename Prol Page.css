@@ -1,0 +1,143 @@
+body {
+	width: 100%;
+	background-color: #f6f6f6;
+}
+div {
+	width: 100%;
+}
+.aLL {
+	position: static;
+	/*border: 2px solid #ee0eda; */
+	margin: auto;
+	margin-top: 60px;
+	max-width: 1200px;
+	height: 1000px;
+	font-family: "Trebuchet Ms"
+}
+#header1 {
+	height: 15px;
+	background: 10px #7a7a99;
+	margin: -10px -10px 0 -10px;
+	background-size: cover;
+}
+#header2 {
+	height: 30px;
+	margin: 0 -10px 0 -10px;
+	background-color: #CCCCFF;
+	background-size: cover;
+}
+.ip {
+	position: absolute;
+	/*border: 1px solid #ffee1D;*/
+	width: 20%;
+	padding: 5px 5px 0 10px;
+}
+#fol{
+	clear: both;
+}
+#pers {
+	width: 200px;
+	display: block;
+	margin-top: 10px;
+	float: left;
+	 
+}
+#left {
+	float: left;
+}
+#right {
+	float: right;
+	/*left: 160px;
+	top: 70px; */	
+}
+li {
+	margin: auto;
+	display: inline-block;
+	position: relative;
+	right: 40px;
+	border-right: 2px solid #7A7A9E;
+}
+input {
+	margin-right: 10px;
+}
+h3 {
+	color: #7A7AA0;
+}
+h3 p {
+	font-weight: lighter;
+	font-family: "Times New Roman";
+	top: 50px;
+	margin-top: -5px;
+	color: #000000;
+
+}
+h2 {
+	padding-left: 5px;
+	margin-top: 50px;
+}
+h2 p {
+	font-weight: normal;
+	font-size: 18px;
+	margin-top: 5px;
+	padding-left: 5px;
+}
+img {
+	width: 190px;
+	height: 230px;
+	text-align: center;
+	background-color: blue;
+}
+#fb, #tw {
+	display: inline-block;
+	width: 15%;
+	height: 15%;
+	margin-top: -25px;
+}
+#fb{
+	border-radius: 10px;
+	background-color: #0147FA;
+	border: 1px solid #FFFFFF;
+}
+#tw{
+	border-radius: 10px;
+	background-color: #00BFFF;
+	border: 1px solid #ffffff;
+}
+#icn {
+	float: right;
+	position: static;
+
+}
+.pCAPA {
+	/*border: 1px solid #ABABCD;*/
+	width: 80%;
+	position: relative;
+	height: 50%;
+}
+table {
+	border-collapse: collapse;
+	font-family: "Trebuchet Ms";
+	font-weight: bolder;
+	position: relative;
+	top: 70px;
+	width: 100%;
+	border-collapse: collapse;
+}
+th {
+	color: #000000;
+	text-align: left;
+	padding: 5px 5px;
+}
+td {
+	padding: 5px 5px;
+	background-color: #C1F0F6;
+	color: #ffffff;
+	font-weight: bold;
+	border: 1px solid #ffffff;
+}
+.alt td {
+	color: #FFFFFF;
+	background-color: #63D1E1;
+	border: 1px solid #ffffff;
+	
+}
